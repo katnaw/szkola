@@ -1,0 +1,16 @@
+1. Utworz baze o nazwie szkola (jezeli taka baza juz istnieje, nadaj jej nazwe szkola_1 itp)
+2. Zaprojektuj w niej tabele uczen(pola: Iducznia, Imie, Nazwisko, Data_urodzenia, Miejsce_ur, Plec, Klasa), okreœl typ pól oraz nadaj klucz podstawowy dla ka¿dej z tabel. 
+3. Zaprojektuj tabele przedmiot (pola: Idprzedmiotu, Nazwa_przedmiotu)
+4. Dodaj tabelê, któr¹ powinna mieæ baza, aby mo¿na by³o ka¿demu z uczniów wpisaæ oceny z poszczególnych przedmiotów.
+5. Do bazy szko³a wprowadŸ informacje o piêciu uczniach. Wpisz do tabeli przedmioty: matematyka, fizyka, chemia, geografia, biologia oraz przyporz¹dkuj ka¿demu uczniowi oceny z tych przedmiotów. 
+6. Wyœwietl listê uczniów w uk³adzie alfabetycznym wed³ug nazwisk.
+7. Wyœwietl listê uczniów, których nazwiska rozpoczynaj¹ siê na literê N, a imiê koñczy na literê A.
+8. Wyœwietl imiona i nazwiska uczniów, których nazwiska rozpoczynaj¹ siê na literê B.
+Funkcje agreguj¹ce
+9. Wyœwiel liczbê uczniów istniej¹cych w bazie.
+10. Wyœwietl ogóln¹ œredni¹ ocen uczniów.
+11. Wyœwietl najni¿sz¹ ocenê z chemii.
+Grupowanie tabel
+12. Wyœwietl liczbê ch³opców i dziewczyn w bazie.
+13. Wyœwietl œredni¹ ocen z poszczególnych przedmiotów.
+14. Wyœwietl liczbê uczniów w poszczególnych klasach. 
